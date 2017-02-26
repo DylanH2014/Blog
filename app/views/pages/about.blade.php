@@ -11,3 +11,8 @@
 	</div>
 </body>
 </html>
+
+
+<script src="/bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>
+<script src="/konami.js"></script>
+
